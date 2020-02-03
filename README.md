@@ -1,3 +1,5 @@
 # hello-world
 Hello to the world
-Robię trening git żeby dostać pracę
+Robię trening git 
+Zeby dobrze to umieć
+Być dobrym pracownikiem
